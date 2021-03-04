@@ -1,7 +1,7 @@
 # Igor Ramon<img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/wave.gif" width="30px">
 
 <p> 
-  <em>I am graduate student of the course of distributed software architecture by PUC-MG,I have a bachelor's degree in information technology by UFERSA. Currently I am an Frontend developer at <a href="https://acelerabit.com.br">acelerabit</a>, I have had experience with Frontend and Mobile development, with Reactjs and React Native 
+  <em>I am graduate student of the course of distributed software architecture by PUC-MG,I have a bachelor's degree in information technology by UFERSA. Currently I am an Frontend developer at <a href="https://acelerabit.com.br">acelerabit</a>, I have experience with Frontend and Mobile development, with Reactjs and React Native 
  <br/>
 </p>
 
