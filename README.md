@@ -1,14 +1,13 @@
 # Igor Ramon<img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/wave.gif" width="30px">
 
+Hi there 👋🏻  
+I'm Igor Diniz. I'm Software Engineer at [Mblabs](https://mblabs.com.br/), working over React Native and React.Js ecosystem.
 
+My favourites tools: <img src="https://i.ibb.co/PZ2XZgr/ts.png" width="20"/> <b>TypeScript</b>, <img src="https://i.ibb.co/4RHMmLQ/react.png" width="20"/> <b>React Js & React Native</b>
+
+Currently learning: <img src="https://upload.wikimedia.org/wikipedia/commons/7/74/Kotlin_Icon.png" width="20"/> <b>Kotlin</b>
 
 <br>
 
-**Languages and Tools:**  
-
-<code><img height="30" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png"></code>
-<code><img height="30" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png"></code>
-<code><img height="30" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/postgresql/postgresql.png"></code>
-<code><img height="30" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png"></code>
 #### <img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="50"> How about some stats ?
 ![Prify Philip's GitHub Stats](https://github-readme-stats.vercel.app/api?username=igorrmon&hide=["stars"]&show_icons=true)
